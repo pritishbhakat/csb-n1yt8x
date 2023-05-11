@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://pritishbhakat.github.io/csb-n1yt8x/static/js/main.cb454bf8.chunk.js",
+    "main.js.map": "https://pritishbhakat.github.io/csb-n1yt8x/static/js/main.cb454bf8.chunk.js.map",
+    "runtime-main.js": "https://pritishbhakat.github.io/csb-n1yt8x/static/js/runtime-main.6076e6db.js",
+    "runtime-main.js.map": "https://pritishbhakat.github.io/csb-n1yt8x/static/js/runtime-main.6076e6db.js.map",
+    "static/js/2.61ae90a2.chunk.js": "https://pritishbhakat.github.io/csb-n1yt8x/static/js/2.61ae90a2.chunk.js",
+    "static/js/2.61ae90a2.chunk.js.map": "https://pritishbhakat.github.io/csb-n1yt8x/static/js/2.61ae90a2.chunk.js.map",
+    "index.html": "https://pritishbhakat.github.io/csb-n1yt8x/index.html",
+    "precache-manifest.a0c49faa19e724e7500b7e402fb2a4ee.js": "https://pritishbhakat.github.io/csb-n1yt8x/precache-manifest.a0c49faa19e724e7500b7e402fb2a4ee.js",
+    "service-worker.js": "https://pritishbhakat.github.io/csb-n1yt8x/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6076e6db.js",
+    "static/js/2.61ae90a2.chunk.js",
+    "static/js/main.cb454bf8.chunk.js"
+  ]
+}
